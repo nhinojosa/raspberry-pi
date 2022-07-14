@@ -5,3 +5,6 @@
 
 ## Examples
 - https://scratch.mit.edu/studios/31720137
+
+## Scratch Classroom Link
+- http://scratch.mit.edu/signup/6j6f6hp3t
